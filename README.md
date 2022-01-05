@@ -1,7 +1,5 @@
 # 2d_raytracer_non_analytical_optics
-a simple 2d raytracer programmed with python 
-the raytracer does not require any analytical expression of the surfaces of an optical element
-this enables the interaction with hand drawn surfaces
+a simple 2d raytracer programmed with python  The raytracer does not require any analytical expression of the surfaces of an optical element.  This enables the interaction with hand drawn surfaces.
 
 ![example1](https://user-images.githubusercontent.com/97164523/148226474-4770c850-ec92-429f-935c-213488b196b5.png)
 ![example2](https://user-images.githubusercontent.com/97164523/148226493-6277affd-cf9f-46db-a781-ce402a381b4b.png)
